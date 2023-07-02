@@ -10,3 +10,10 @@ th {
   width: fit-content;
   margin: 0 auto;
 }
+#website_link_container {
+  text-align: center;
+}
+#dawateislami_website {
+  text-decoration: none;
+  color: #ba0000;
+}
